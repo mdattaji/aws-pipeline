@@ -8,4 +8,4 @@ Resources:
       ImageId: "ami-0e86e20dae9224db8"
       Tags: 
       - Key: Name
-        Value: CF-Instance
+        Value: CF-Instance1
